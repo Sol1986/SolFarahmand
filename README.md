@@ -6,7 +6,7 @@ Most of my work is hands-on: real code, reusable Claude Skills, and agent workfl
 
 I run AI Enabled Academy, where I teach consultants, operators, and technical folks to build with Claude Code, Claude Cowork, MindStudio, and the current agent stack. Live webinars, Maven lightning sessions, a newsletter, and a meetup group called AI Enabled Professionals. Goal: train a million people to use AI properly.
 
-###What I work on
+## What I work on
 AI agents: single-agent and multi-agent systems with tool calling, memory, and multi-step reasoning. LangChain, LangGraph, CrewAI, AutoGen, MindStudio, Claude Code, Claude Cowork
 Claude Skills: reusable skill files that turn a repeatable process into something an agent runs the same way every time. SEO audits, content systems, API function builders, agent loop scaffolds, Notion and Gmail workflows
 MCP integrations: wiring agents into Notion, Gmail, Slack, Airtable, Zoom, and custom APIs so they can take real actions, not just describe them
@@ -16,7 +16,7 @@ Prompt engineering: few-shot, chain-of-thought, ReAct, self-reflection, structur
 Fine-tuning: LoRA and 4-bit quantization on open-source models
 Teaching material: labs, templates, and workflow docs written for people who don't write code
 
-###Currently going deep on
+## Currently going deep on
 
 - LangGraph multi-agent orchestration in production: supervisor and hierarchical patterns, agent contracts, event-driven handoffs
 - Eval harnesses: golden datasets, regression suites, LLM-as-judge and rubric scoring, retrieval evals
