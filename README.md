@@ -1,4 +1,4 @@
-# Hi I'm SolFarahmand 🤓
+# Hi I'm Sol Farahmand 🤓
 
 I build AI agents and ship the patterns behind them so other people can copy the setup instead of guessing.
 
